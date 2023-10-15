@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, ElementRef } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { UserService } from 'src/app/user.service';
+// import { UserService } from 'src/app/user.service';
 import { UtilityService } from 'src/app/utility.service';
 declare var Instafeed:any
 @Component({
